@@ -51,9 +51,9 @@ Através da adaptação do algoritmo de recomendação, o projeto visa não apen
 
 ## Estrutura do Projeto
 
-- `data/`: Contém o dataset de entrada.
-- `notebooks/`: Notebooks Jupyter para análise, pré-processamento e aplicação do algoritmo de clusterização.
-- `src/`: Scripts Python com funções para manipulação de dados e aplicação do modelo.
+- `dados/`: Contém o dataset de entrada.
+- `analysis_discriptive_explanet .ipynb/`: Notebook Jupyter para análise exploratória.
+- `modelo_para_descobrir_planetas_habitaveis .ipynb/`: Aplicação do algoritmo de clusterização, manipulação de dados e aplicação do modelo.
 - `requirements.txt`: Dependências do projeto.
 
 ## Resultados
